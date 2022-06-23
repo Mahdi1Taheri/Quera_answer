@@ -1,6 +1,5 @@
 
 strings = []  
-count = ""
   
 for i in range(1,6):
     Recevie = input().upper()[:20]
